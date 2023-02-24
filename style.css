@@ -1,0 +1,43 @@
+.thumbnail-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .thumbnail {
+    flex: 1;
+    margin: 10px;
+  }
+ 
+  .thumbnail img {
+    width: 200px;
+    height: 200px;
+    border: 1px solid #ccc;
+    padding: 5px;
+  }
+  
+  
+  .thumbnail img {
+    object-fit: cover;
+  }
+ 
+  .thumbnail-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .thumbnail {
+    flex: 1;
+    margin: 10px;
+  }
+  
+  .thumbnail img {
+    width: 200px;
+    height: 200px;
+    border: 1px solid #ccc;
+    padding: 5px;
+    object-fit: cover;
+  }
+ 
+ 
+  
+  
+ 
